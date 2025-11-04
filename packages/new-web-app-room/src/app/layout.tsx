@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Build anything from a chat",
-  description: "Turn chats into apps. Prompt. Ship. Repeat.",
+  title: "Apple Watch - The Ultimate Device for a Healthy Life",
+  description: "Discover the Apple Watch with health tracking, fitness features, always-on display, and seamless connectivity. The future of wearable technology.",
 };
 
 export default function RootLayout({
@@ -32,3 +32,4 @@ export default function RootLayout({
     </html>
   );
 }
+
